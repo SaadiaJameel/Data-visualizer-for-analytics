@@ -5,3 +5,5 @@ of the work to virtual environments. Due to this, the usage of meeting tools has
 increased so as the data gathered through such tools. The objective of this project is to analyze such
 data files and visually represent the data as per the requirement of user.
 
+![example](images/example.png)
+
